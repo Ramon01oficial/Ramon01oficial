@@ -28,11 +28,12 @@ Estou ansioso para trabalhar em equipe, colaborar em projetos e continuar cresce
 # Projetos:
 ### 1.GestFarm.
 - Projeto voltado para organização de Estoques em uma Farmacêutica porém com utilização em outras áreas, o objetivo é precavêr perdas de produtos, também trazendo organização e Controle de Estoque.
-### Tecnologias utilizadas:
+### Tecnologias e Ferramentas utilizadas:
 - Python.
-- QtDesigner.
 - Mysql.
 - sqlserver.
+#### Ferramentas:
+- QtDesigner.
 - workbench.
 - VScode.
 - OpenIA.
