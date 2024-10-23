@@ -14,8 +14,6 @@ Estou ansioso para trabalhar em equipe, colaborar em projetos e continuar cresce
 
 
 
-
-
 # 🛠️Conhecimentos Técnicos:
 - Linguagens de Programação - PHP, Python, JavaScript.
 - Desenvolvimento Web - HTML, CSS, JavaScript.
@@ -39,6 +37,28 @@ Estou ansioso para trabalhar em equipe, colaborar em projetos e continuar cresce
 - OpenIA.
 ### Link:
 - [ Ainda vou colocar]
+
+
+# Soft e Hard skills
+### 🤝Soft Skills:
+- Boa comunicação.
+- Proativo.
+- Organizado.
+- Atencioso. 
+- Pontual. 
+- Resiliência.
+- Empatia.
+- Pensamento Crítico.
+- Flexibilidade.
+### 💻Hard skills:
+- Curso java Básico.
+- Python. 
+- Introdução a Banco de dados.
+- Criação de Banco de dados.
+- DBA.
+- HTML/CSS.
+- Modelagem de Dados.
+- Git e Github.
 
 
 
