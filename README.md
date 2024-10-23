@@ -1,5 +1,5 @@
 
-#👤Quem sou eu?
+# 👤Quem sou eu?
 
 Olá Sou o Ramon Vitor, tenho 20 anos e estou estudando Análise e Desenvolvimento de Sistemas. Sempre fui fascinado por tecnologia e como ela pode facilitar a vida das pessoas. Estou empolgado para começar minha jornada profissional e colocar em prática tudo o que aprendi até agora.
 
@@ -8,7 +8,7 @@ Atualmente, estou à procura do meu primeiro emprego na área de desenvolvimento
 Estou ansioso para trabalhar em equipe, colaborar em projetos e continuar crescendo nessa área que tanto amo. Vamos nos conectar e explorar novas oportunidades juntos!
 
 
-#🎓Formação:
+# 🎓Formação:
 - Uninassau - Início - 10/01/2023 até o presente.
 - Ensino médio Completo.
 
@@ -16,7 +16,7 @@ Estou ansioso para trabalhar em equipe, colaborar em projetos e continuar cresce
 
 
 
-#🛠️Conhecimentos Técnicos:
+# 🛠️Conhecimentos Técnicos:
 - Linguagens de Programação - PHP, Python, JavaScript.
 - Desenvolvimento Web - HTML, CSS, JavaScript.
 - Banco de Dados - MySQL, SqlServer.
@@ -25,7 +25,7 @@ Estou ansioso para trabalhar em equipe, colaborar em projetos e continuar cresce
 
 
 
-#💻Projetos:
+# 💻Projetos:
 ### 1.GestFarm.
 - Projeto voltado para organização de Estoques em uma Farmacêutica porém com utilização em outras áreas, o objetivo é precavêr perdas de produtos, também trazendo organização e Controle de Estoque.
 ### Tecnologias e Ferramentas utilizadas:
@@ -42,7 +42,7 @@ Estou ansioso para trabalhar em equipe, colaborar em projetos e continuar cresce
 
 
 
-#📞Contato
+# 📞Contato
 - Email - vitorramon285@gmail.com
 - Github - https://github.com/Ramon01oficial
 - Linkedin -  [ Ainda vou colocar]
