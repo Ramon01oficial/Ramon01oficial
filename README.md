@@ -65,4 +65,4 @@ Estou ansioso para trabalhar em equipe, colaborar em projetos e continuar cresce
 # 📞Contato
 - Email - vitorramon285@gmail.com
 - Github - https://github.com/Ramon01oficial
-- Linkedin -  [ Ainda vou colocar]
+- Linkedin -  https://www.linkedin.com/in/ramon-vitor-3b09a02b5/
